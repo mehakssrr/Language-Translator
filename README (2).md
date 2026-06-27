@@ -74,6 +74,4 @@ To train on your own data:
 - This is an educational/reference implementation (no attention mechanism), intended as a clear starting point for understanding seq2seq translation models rather than a production-ready system.
 - For longer sequences or larger vocabularies, consider adding an attention mechanism (e.g., Bahdanau or Luong attention) to improve translation quality.
 
-## License
 
-MIT — feel free to use, modify, and share.
